@@ -13,10 +13,8 @@
 
 ```javascript
 var test = "Hello world!";
-console.log(test);
-```
-
-
+console.log(test)
+hej
 ### GitHub
 
 - Skapa ett [GitHub](https://github.com/) konto med din @edu.umea.se mail.
